@@ -1,4 +1,4 @@
-[![MasterHead](https://smeoncloud.in/wp-content/uploads/2022/03/What-is-cloud-computing-1.gif)]
+![MasterHead](https://smeoncloud.in/wp-content/uploads/2022/03/What-is-cloud-computing-1.gif)
 <h1 align="center">Hi 👋, I'm Rajesh Alda</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
