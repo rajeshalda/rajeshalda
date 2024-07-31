@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Alda</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
-<img src="[https://example.com/path/to/your/test.gif](https://i.postimg.cc/1z2jxVMJ/1665543413870.gif)" alt="Test GIF">
+<img src="https://i.postimg.cc/1z2jxVMJ/1665543413870.gif" alt="Test GIF">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshalda&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshalda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshalda" alt="rajeshalda" /></a> </p>
