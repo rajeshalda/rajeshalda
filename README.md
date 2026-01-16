@@ -111,12 +111,6 @@ MIRO (Invoice Verification) | Invoice Parking
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshalda&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rajeshalda&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ## 📫 Connect with Me
 
 <p align="left">
