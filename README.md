@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Rajesh Alda 👋</h1>
-<h3 align="center">Associate Software Engineer | Cloud & Network Specialist</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1e3a8a&height=200&section=header&text=Rajesh%20Alda&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20|%20Cloud%20%26%20Network%20Specialist&descAlignY=55&descAlign=50" alt="Header" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajeshalda&label=Profile%20views&color=0891b2&style=flat" alt="rajeshalda" />
