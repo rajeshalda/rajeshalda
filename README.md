@@ -102,7 +102,7 @@ MIRO (Invoice Verification) | Invoice Parking
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rajeshalda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeshalda&theme=dark&hide_border=true&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 ## 📈 GitHub Activity Graph
