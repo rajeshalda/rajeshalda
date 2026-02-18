@@ -17,7 +17,7 @@ I am an Associate Software Engineer at **Nathcorp Pvt. Ltd.** with expertise in 
 - 🎓 **MCA** from St. Xavier College, Ranchi | **BCA** from NSHM College
 - ☁️ Specializing in **Microsoft Azure**, **Networking**, and **SAP MM**
 - 📧 Reach me at **rajeshalda844@gmail.com**
-- 🌐 Portfolio: [rajeshalda.com](http://rajeshalda.com/index.php)
+- 🌐 Portfolio: [rajeshalda.com](https://www.rajeshalda.com/)
 - 📱 Contact: **+91-8292701044**
 
 ## 🚀 Current Focus
